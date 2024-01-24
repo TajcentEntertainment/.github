@@ -39,4 +39,3 @@ We'd love to hear from you! Whether you have a project in mind, need consulting 
 Follow us on [Twitter](https://twitter.com/tajcent) | [Instagram](https://www.instagram.com/tajcent/) | [LinkedIn](https://www.linkedin.com/tajcent/tajcententertainment) | [Facebook](https://www.facebook.com/tajcent)
 
 Thank you for considering Tajcent Entertainment for your software needs!
-# .github
